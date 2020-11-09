@@ -1,0 +1,9 @@
+{
+  "name": "hot-cpu",
+  "description": "Make your CPU became HOT / ULTRA HOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "version": "1.0.0"
+}
