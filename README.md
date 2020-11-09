@@ -1,2 +1,5 @@
 # hot-cpu
 Make your CPU goes HOT / ULTRA HOT.
+
+## WARNING
+****DO NOT CLONE THIS REPO IF YOU DON'T KNOW WHAT IS THIS!!!****
